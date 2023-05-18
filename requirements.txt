@@ -1,0 +1,4 @@
+pytest
+jproperties
+selenium
+webdriver-manager
